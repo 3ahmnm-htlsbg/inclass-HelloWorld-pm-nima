@@ -1,12 +1,21 @@
 # inclass-HelloWorld-pm-nima
 
-Developement Platform: Windows 10
-Description: 2D Project, create unity project locally and on GitHub. Installation of Playmaker
-Target Platform: WebGL (refRes: 1280x720)
-Screenshot: /
-Game Control: /
-Third Party Material: /
-Limitations: /
-Lessons Learned: How to install Playmaker
+## Developement Platform:
 
-Copyright by nima
+* Windows 10
+
+## Description:
+
+* Create unity project locally and on GitHub
+* Installation of Playmaker.1.9.0.p9.unitypackage
+
+## Target Platform:
+
+* WebGL (refRes: 1280x720)
+
+## Lessons Learned:
+
+* Revision of git/Github workflow
+* How to install Playmaker
+
+### Copyright by nima
