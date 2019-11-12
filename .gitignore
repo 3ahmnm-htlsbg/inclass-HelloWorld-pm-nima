@@ -7,6 +7,11 @@
 [Ll]ogs/
 Assets/AssetStoreTools*
 
+# Playmaker
+Assets/Gizmos*
+Assets/PlayMaker*
+Assets/Plugins*
+
 # Visual Studio cache directory
 .vs/
 
@@ -97,3 +102,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
